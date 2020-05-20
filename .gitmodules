@@ -4,3 +4,6 @@
 [submodule "Phase4-SCSB-Circ"]
 	path = Phase4-SCSB-Circ
 	url = https://github.com/DinakarCiber/Phase4-SCSB-Circ.git
+[submodule "Phase4-SCSB-Auth"]
+	path = Phase4-SCSB-Auth
+	url = https://github.com/DinakarCiber/Phase4-SCSB-Auth.git
